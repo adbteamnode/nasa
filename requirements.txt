@@ -1,0 +1,6 @@
+cosmpy
+ecdsa
+requests
+python-dotenv
+colorama
+web3
